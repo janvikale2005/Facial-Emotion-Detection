@@ -9,7 +9,6 @@ opencv-contrib-python
 scikit-learn
 
 
-python -m notebook(for notebook window)
 
-images         lables
+
 
