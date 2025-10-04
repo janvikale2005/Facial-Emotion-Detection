@@ -40,6 +40,7 @@ Facial-Emotion-Detection/
 ├── facialemotionmodel.json # Model architecture
 ├── facialemotionmodel.h5 # Trained model weights
 ├── requirements.txt # Python dependencies
+|- trainmodel.ipynb #notebook
 └── README.md # Project documentation
 
 ## How to Run the Project
