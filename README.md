@@ -36,7 +36,7 @@ The system is implemented in **Python** using **Flask** as the backend framework
 ## Project Structure
 Facial-Emotion-Detection/
 │
-├── app.py # Flask backend
+├── realtimedetection.py # Flask backend
 ├── facialemotionmodel.json # Model architecture
 ├── facialemotionmodel.h5 # Trained model weights
 ├── requirements.txt # Python dependencies
